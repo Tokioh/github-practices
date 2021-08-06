@@ -1,0 +1,3 @@
+hola we estoy provando git
+pa ver que pedo
+ahora estoy mesclando vsc

@@ -2,3 +2,5 @@ hola we estoy provando git
 pa ver que pedo tengo 21
 ahora estoy mesclando vsc
 y estoy modificando
+
+volviendo a probar por poca practica xd

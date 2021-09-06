@@ -1,6 +1,10 @@
 hola we estoy provando git
 pa ver que pedo tengo 21
+ya soy mejor, capitulo 22
 ahora estoy mesclando vsc
-y estoy modificando
+y estoy modificando mi archivo sabiendo ya muchas cosas muchas
 
 volviendo a probar por poca practica xd
+
+cambiando documento para verificar que mi key ssh funciona desde
+mi computador a git hub y de github a mi cmputador
